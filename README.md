@@ -3,7 +3,7 @@ Analyzing two major stocks to understand the functionality of stock market.
 
 ## Motivation for this project:
 
-There is a lot of $misconception$ in the minds of ordinary working class of the society who are not related to the Stock Market.
+There is a lot of **misconception** in the minds of ordinary working class society who are not related to the Stock Market.
 
 By this project i will try to provide all the neccessary information about the stock market so that very citizen can make an **informed** and **beneficial decision** for their life. 
 
@@ -11,7 +11,7 @@ By this project i will try to provide all the neccessary information about the s
 
 ### Some of the Basic Terms to know before Beginning
 
-1. **BSE**: The **Bombay Stock Exchange** is an Indian stock exchange located at $Dalal Street, Mumbai$.
+1. **BSE**: The **Bombay Stock Exchange** is an Indian stock exchange located at Dalal Street, Mumbai.
 
 Established in **1875**, the BSE (formerly known as Bombay Stock Exchange Ltd.) is Asia's first stock exchange. The BSE is the world's 10th largest stock exchange with an overall market capitalization of more than $2.2 trillion on as of April 2018.
 
@@ -28,11 +28,11 @@ NSE was the first exchange in the country to provide a modern, fully automated s
 
 2.) How stock market works.
 
-3.) Is investing in stock market $risky$.
+3.) Is investing in stock market **risky.**
 
-4.) Which is more beneficial for investing, $Long$ term or $short$ term.
+4.) Which is more beneficial for investing, **Long** term or **short** term.
 
-5.) When was the **highest Closing prize** and **Volume** was achieved for the taken data. (volume and closing prize are explained inside)
+5.) When was the **highest Closing prize** and **Volume** was achieved for the taken data. 
 
 6.) What happened to the **indian market** when the **stock market** collapsed.
 
