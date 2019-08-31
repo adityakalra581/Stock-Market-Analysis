@@ -52,7 +52,9 @@ NSE was the first exchange in the country to provide a modern, fully automated s
 
 ## IMPORTANT: 
 There are two parts of this project:
+
 1.) Minor project(1) : which is the initial part and it has Analysis of RIL(Reliance Industries Limited) stocks.
+
 2.) Minor project(part2) : These file contains the correlation between tcs and ril. Two major firms as far as Indian Stock Market is concerned.
 
                   
